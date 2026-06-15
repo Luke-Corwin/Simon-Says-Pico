@@ -30,7 +30,9 @@ This project was created to learn the basics of embedded systems programming, GP
 * `main.py` - Main Simon Says game code
 * `config.py` - GPIO pin configuration
 * `README.md` - Project documentation
-* `images/` - Photos and wiring images
+* `Images/` - Photos and wiring images
+* `Videos/` - Start up and gameplay videos
+
 
 ## How to Run
 
